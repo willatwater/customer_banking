@@ -1,4 +1,5 @@
 # Homework 3
+ChatGPT utilized for debugging and generating README file. 
 
 # Customer Banking Program
 
